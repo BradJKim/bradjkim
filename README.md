@@ -5,6 +5,8 @@ I am a Junior Computer Science Major attending Cal Poly Pomona specializing in S
 Also exploring related subjects such as Cyber Security and Embedded Systems Programming. 
 2024-2025 Club president for Forensics and Security Technologies (FAST) Club.
 
+Check on my repositories to see what I've been working on!
+
 ## Skills
 Python, Java, PHP, HTML, CSS, Javascript, Git, Node.js, React.js, Flask
 
