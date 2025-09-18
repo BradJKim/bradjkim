@@ -1,7 +1,7 @@
 ### Hi I'm Brad 👋
 
 ## About Me
-I am a Junior Computer Science Major attending Cal Poly Pomona specializing in Software Development. 
+I am a 4th year Computer Science Major attending Cal Poly Pomona specializing in Software Development. 
 Also exploring related subjects such as Cyber Security and Embedded Systems Programming. 
 2024-2025 Club president for Forensics and Security Technologies (FAST) Club.
 
